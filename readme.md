@@ -6,7 +6,7 @@ The dataset will be made publicly available soon
   <strong>Fig. 1.</strong> The data visualization for STROKE120 dataset.
 </p>
 
-## ISLES2018 dataset(5 modalities):
+## ISLES2018 dataset(5 modalities)
 
 ### Dataset link
 [https://www.isles-challenge.org/ISLES2018/](https://www.isles-challenge.org/ISLES2018/)

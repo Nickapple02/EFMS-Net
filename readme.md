@@ -3,7 +3,7 @@ The dataset will be made publicly available soon
 
 <p align="center">
   <img src="./stroke0112_0000.png" width="50%"><br>
-  <em>Fig. 1. The data visualization for STROKE120 dataset.</em>
+  Fig. 1. The data visualization for STROKE120 dataset.
 </p>
 ## ISLES2018 dataset(5 modalities):
 

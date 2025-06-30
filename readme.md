@@ -1,4 +1,5 @@
 ## STROKE120 dataset(1 modality)
+The dataset will be made publicly available soon
 
 <p align="center">
   <img src="./stroke0112_0000.png" width="50%">

@@ -1,4 +1,4 @@
-## STROKE120 dataset(1 modalities)
+## STROKE120 dataset(1 modality)
 
 <p align="center">
   <img src="./stroke0112_0000.png" width="50%">

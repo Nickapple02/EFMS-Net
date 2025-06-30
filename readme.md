@@ -1,3 +1,5 @@
+# EFMS-Net: Efficient Frequency-Enhanced Multi-Scale Network for Ischemic Stroke Segmentation
+
 ## STROKE120 dataset(1 modality)
 The dataset will be made publicly available soon
 
